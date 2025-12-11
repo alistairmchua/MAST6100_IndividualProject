@@ -1,2 +1,2 @@
 # machinelearning_project
- ML project on Mobile Price Classifcation
+Dataset is from https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification/data, using the train.csv file
